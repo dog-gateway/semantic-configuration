@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ontdesc:ontologies entryPoint="simpleHome" xmlns:ontdesc="http://elite.polito.it/ontologyDescriptorSet" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://elite.polito.it/ontologyDescriptorSet ../../XMLDog/ontologyDescriptorSet.xsd ">
+  <ontdesc:ontology namespace="dogOnt" href="http://elite.polito.it/ontologies/dogont.owl" src="dogont.owl"/>
+  <ontdesc:ontology namespace="simpleHome" href="http://elite.polito.it/ontologies/simpleHome.owl" src="simpleHome.owl"/>
+</ontdesc:ontologies>
